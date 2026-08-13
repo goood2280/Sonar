@@ -40,7 +40,7 @@ long-form 공정·ET·INLINE·VM·geometry 정보를 결합하는 반도체 예�
 
 ## 문서
 
-- [`PLAN.md`](PLAN.md): 목표, 단계, 평가 기준, POC 범위
+- [`plan.md`](plan.md): Flow 다중 파일 기반 수율·성능 추론, SHAP, 단계별 구현·평가 계획
 - [`docs/WP0_AUDIT.md`](docs/WP0_AUDIT.md): `sonar audit` 실행법, check별 의미, gate 기준,
   현재 데이터에서 확인된 blocker
 - [`docs/DATA_SOURCE_INVENTORY.md`](docs/DATA_SOURCE_INVENTORY.md): 실제 세 폴더의 schema,

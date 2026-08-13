@@ -1,0 +1,9 @@
+{
+  "source": "ET",
+  "datasetVersion": "et-local-alpha-v1",
+  "uri": "s3://fab-curated/et/date=2026-08-01/",
+  "grain": "teg-point",
+  "joinKeys": ["lot_id", "wafer_id", "shot_id", "teg_id", "item_id"],
+  "coordinateSystem": "wafer_xy_mm + shot_local_xy_um",
+  "schemaUri": "s3://fab-contracts/et/v1/schema.json"
+}
